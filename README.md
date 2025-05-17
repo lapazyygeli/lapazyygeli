@@ -1,14 +1,14 @@
 # 👋 Hi there!
 
-I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
+Hi there! I build cool stuff, break things to learn, and then build them better — all while having fun.
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[DiverseLiteratureHub](https://github.com/lapazyygeli/diverse-literature-hub):** Web application for exploring books by authors and browsing categories.
-  - 🚀 **Tech Stack:** React, Javascript, CSS, HTML
-  - 🎯 **Key Features:** Highlight some interesting features
+- **[Signup/Login System](https://github.com/lapazyygeli/signup-login-system):** Fullstack web application for user registration, login, and role-based access control.
+  - 🚀 **Tech Stack:** React, Redux, Express, MongoDB, TailwindCSS, Docker
+  - 🎯 **Key Features:** Secure user authentication with cookie-based sessions, backend input validation and XSS protection, role-based access control with admin and user roles.
 
 - **[RoomDb](https://github.com/lapazyygeli/room-db):** Android application designed to help users manage their reading lists.
   - 🚀 **Tech Stack:** Kotlin, Java, Room
@@ -18,13 +18,13 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Java, Kotlin, Javascript/TypeScript, CSS, HTML, Python
-- **Frameworks & Libraries:** React, Android, GSON
-- **Databases:** PostgreSQL, Room, Firebase
+- **Programming Languages:** Java, Kotlin, Javascript/TypeScript, Python
+- **Frameworks & Libraries:** React, Redux, Android, GSON
+- **Databases:** PostgreSQL, MongoDb, Room, Firebase
 - **Other Tools:** Git, Docker, VS Code, IntelliJ
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapazyygeli&layout=compact&theme=radical)](https://github.com/YourUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapazyygeli&layout=compact&theme=radical)]
