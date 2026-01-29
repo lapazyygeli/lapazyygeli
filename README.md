@@ -1,6 +1,4 @@
-# 👋 Hi there!
-
-\- I build cool stuff, break things to learn, and then build them better — all while having fun.
+\- I build cool stuff, push ideas to their limits, and then make them better — all while having fun.
 
 ---
 
